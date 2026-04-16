@@ -7,18 +7,6 @@ body {
     font-family: 'Inter', sans-serif;
 }
 
-.nav-item .nav-link {
-    text-decoration: none;
-    color: black;
-    font-size: 17px;
-    font-weight: 500;
-}
-
-.nav-item .nav-link:hover {
-    color: #dc233f;
-    transition: ease-in-out 1ms;
-}
-
 /* section2 Header */
 .section2 {
     height: screen;
